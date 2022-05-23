@@ -1,6 +1,6 @@
 # About this project
 
-This is an example of simple React Typescrip App generated from the Create-React-App typescript template and then turned into a simple Single Page Application with a Router, Home Page, Number of styled reusable components.
+This is an example of simple React TypeScript App generated from the Create-React-App TypeScript template and then turned into a simple Single Page Application with a Router, Home Page, Number of styled reusable components. Project uses React-Bootstrap.
 
 ## Project goal
 
