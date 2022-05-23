@@ -2,6 +2,8 @@
 
 This is an example of simple React TypeScript App generated from the Create-React-App TypeScript template and then turned into a simple Single Page Application with a Router, Home Page, Number of styled reusable components. Project uses React-Bootstrap.
 
+Demo link: [link](http://react-ts-sample.s3-website.eu-central-1.amazonaws.com/).
+
 ## Project goal
 
 This project was primarly created to show the ability to work with GIT.  This includes 3 main branches:
