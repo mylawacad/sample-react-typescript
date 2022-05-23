@@ -1,5 +1,6 @@
 import React from "react";
 import ListingsColored from "../../Components/ListingsColored";
+import ListingsSeamless from "../../Components/ListingsSeamless";
 
 const titleSectionStyle = {
   padding: "35px 0"
@@ -14,6 +15,8 @@ const Landing: React.FC = () => {
       </div>
 
       <ListingsColored id="recent" title="Recent listings" />
+
+      <ListingsSeamless id="suggested" title="Suggested Listings" />
     </main>
   );
 };
