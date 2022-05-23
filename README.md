@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# About this project
+
+This is an example of simple React Typescrip App generated from the Create-React-App typescript template and then turned into a simple Single Page Application with a Router, Home Page, Number of styled reusable components.
+
+## Project goal
+
+This project was primarly created to show the ability to work with GIT.  This includes 3 main branches:
+
+```develop```, ```staging``` and ```main```. The ```main``` branch represents production deployment in this setup.
+
+All the other branches are secondary branches of 2 types:
+
+New feature additions - they start with ```feature--[NAME-HERE]```
+
+Change Requests management - they start with ```cr[NUMBER-HERE]-[NAME-HERE]```
+
+Once feature or CR works are finished those branches get merged into ```develop``` then ```staging``` and then to ```main```. 
+
+# Secondary goal
+
+My secondary goal was to show knoledge of react, TypeScript and general vision of the App structuring approach.
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -39,8 +61,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
