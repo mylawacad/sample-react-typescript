@@ -4,6 +4,7 @@ import { Container } from "react-bootstrap";
 
 import Header from "./Header";
 import HomePage from "../Pages/Home/HomePage";
+import Footer from "./Footer";
 
 const Layout: React.FC = () => {
   return (
@@ -16,6 +17,7 @@ const Layout: React.FC = () => {
           </Routes>
         </Container>
       </main>
+      <Footer />
     </Router>
   );
 };
